@@ -4,3 +4,9 @@
 [submodule "hw-sinatra-saas-hangperson"]
 	path = hw-sinatra-saas-hangperson
 	url = git@github.com:cjzcpsyx/hw-sinatra-saas-hangperson.git
+[submodule "hw-rails-intro"]
+	path = hw-rails-intro
+	url = git@github.com:cjzcpsyx/hw-rails-intro.git
+[submodule "rottenpotatoes-rails-intro"]
+	path = rottenpotatoes-rails-intro
+	url = git@github.com:cjzcpsyx/rottenpotatoes-rails-intro.git

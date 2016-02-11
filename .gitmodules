@@ -1,0 +1,6 @@
+[submodule "hw-ruby-intro"]
+	path = hw-ruby-intro
+	url = git@github.com:cjzcpsyx/hw-ruby-intro.git
+[submodule "hw-sinatra-saas-hangperson"]
+	path = hw-sinatra-saas-hangperson
+	url = git@github.com:cjzcpsyx/hw-sinatra-saas-hangperson.git

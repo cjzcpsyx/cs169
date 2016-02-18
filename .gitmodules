@@ -10,3 +10,6 @@
 [submodule "rottenpotatoes-rails-intro"]
 	path = rottenpotatoes-rails-intro
 	url = git@github.com:cjzcpsyx/rottenpotatoes-rails-intro.git
+[submodule "hw-bdd-cucumber"]
+	path = hw-bdd-cucumber
+	url = git@github.com:cjzcpsyx/hw-bdd-cucumber.git

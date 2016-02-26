@@ -13,3 +13,6 @@
 [submodule "hw-bdd-cucumber"]
 	path = hw-bdd-cucumber
 	url = git@github.com:cjzcpsyx/hw-bdd-cucumber.git
+[submodule "hw-bdd-tdd-cycle"]
+	path = hw-bdd-tdd-cycle
+	url = git@github.com:cjzcpsyx/hw-bdd-tdd-cycle.git

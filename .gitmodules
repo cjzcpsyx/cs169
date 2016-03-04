@@ -16,3 +16,6 @@
 [submodule "hw-sinatra-saas-hangperson"]
 	path = hw-sinatra-saas-hangperson
 	url = git@github.com:cjzcpsyx/hw-sinatra-saas-hangperson.git
+[submodule "typo"]
+	path = typo
+	url = git@github.com:cjzcpsyx/typo.git

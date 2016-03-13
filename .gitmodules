@@ -19,3 +19,6 @@
 [submodule "typo"]
 	path = typo
 	url = git@github.com:cjzcpsyx/typo.git
+[submodule "ruby-extra-credit"]
+	path = ruby-extra-credit
+	url = git@github.com:cjzcpsyx/ruby-extra-credit.git
